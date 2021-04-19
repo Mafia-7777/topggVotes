@@ -1,2 +1,2 @@
-# topggVotes
-top.gg vote webhook thinge
+# top.gg Votes
+top.gg vote webhook thing
